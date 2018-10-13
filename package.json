@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-bitcoin-scripts",
+  "version": "1.0.0",
+  "description": "simple scripts to generate bitcoin address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "address"
+  ]
+}
